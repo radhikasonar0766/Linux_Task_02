@@ -1,5 +1,4 @@
-#Linux_Task_02_RadhikaSonar
-
+# Linux_Task_01_RadhikaSonar
 ## Objective
 To learn Linux user management, groups, file ownership, and permissions.
 
