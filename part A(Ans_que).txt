@@ -1,0 +1,19 @@
+1. What is your current username?
+The current username is the user shown by the whoami command.
+Example: student
+
+2. What is UID?
+UID (User ID) is a unique number assigned to each user account in Linux. It identifies the user to the operating system.
+
+3. What is GID?
+GID (Group ID) is a unique number assigned to a group. It identifies the user's primary group.
+
+4. What information does /etc/passwd contain?
+The /etc/passwd file contains user account information such as:
+
+Username
+User ID (UID)
+Group ID (GID)
+Home directory
+Login shell
+User description
