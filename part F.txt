@@ -1,0 +1,20 @@
+File	               Recommended Permission	Reason
+password_backup.txt	  600	                Contains sensitive passwords and should only be accessible by the owner.
+public_notice.txt	  644	                Everyone can read it, but only the owner can modify it.
+system_log.txt	          640	                Owner can read/write, group can read, others have no access.
+personal_notes.txt	  600	                Personal information should remain private.
+
+
+Reasoning
+
+password_backup.txt (600)
+Only the owner should be able to view and edit password backups.
+
+public_notice.txt (644)
+The file is intended for public viewing but should not be modified by everyone.
+
+system_log.txt (640)
+System logs may contain sensitive information, so access should be limited.
+
+personal_notes.txt (600)
+Personal notes are private and should only be accessible to the owner.
